@@ -1,4 +1,4 @@
-# Hi, I'm [Arun Jaiswal] | Senior Frontend & Full-Stack Engineer
+# Hi, I'm Arun Jaiswal | Senior Frontend & Full-Stack Engineer
 
 I build high-performance, scale-ready web applications specializing in the React ecosystem, Next.js App Router, and strict TypeScript architectures. 
 
