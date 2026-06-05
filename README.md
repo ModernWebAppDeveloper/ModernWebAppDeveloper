@@ -27,7 +27,16 @@ With 4+ years of professional experience, I bridge the gap between pixel-perfect
 *   *👉 [Link to Code](your-repo-link)*
 
 ---
+### 💼 Engineering Background & Philosophy
 
+With 4+ years of professional experience engineering web applications, I focus on building production-ready frontends that balance clean architecture with real-world performance. 
+
+*   **Production-First Mindset:** I treat type safety, accessibility, and semantic HTML as non-negotiables, ensuring codebases remain highly maintainable as teams scale.
+*   **Performance Optimization:** Deep understanding of rendering paradigms, utilizing modern React features and Next.js Server Components to minimize client-side overhead.
+*   **System Design & Testing:** Focused on clean separation of concerns, modular state management patterns, and writing predictable, testable code.
+
+*Currently accepting select frontend and full-stack contract engineering roles.*
+---
 ### ⚙️ Open Source & Code Quality Standards
 *   **Strict Type Safety:** Zero `any` types allowed. Explicit generic constraints and rigorous interface mappings.
 *   **Modern React Paradigms:** Native deployment of modern APIs (avoiding deprecated patterns like legacy forwardRef).
